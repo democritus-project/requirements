@@ -33,6 +33,6 @@ d8s-hashes<1.0
 d8s-fun<1.0
 d8s-html<1.0
 d8s-hypothesis<1.0
-d8s-user<1.0
+d8s-user-agents<1.0
 d8s-ip-addresses<1.0
 d8s-file-system<1.0
